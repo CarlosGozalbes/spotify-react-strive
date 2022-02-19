@@ -1,0 +1,71 @@
+.player-container{
+    z-index: 30 !important;
+    background-color: rgb(27, 26, 26);
+    width: 100vw;
+    height: 7rem;
+    position: fixed;
+    bottom: 0;
+}
+
+.player-options {
+    color: white;
+}
+
+.player-volume {
+    color:white
+}
+
+.player-progress{
+    
+}
+
+
+.player-progress-bar{
+ width: 40vw;
+ 
+}
+
+input[type='range']::-webkit-slider-thumb {
+    
+}
+
+.player-progress-bar::-ms-fill-lower {
+    background: green;
+}
+
+.player-time {
+    color: rgb(163, 151, 151);
+    
+    font-size: 0.8rem;
+}
+
+.player-icon {
+    color: rgb(163, 151, 151);
+    font-size: 1.5rem;
+    
+}
+
+.player-icon:hover {
+    color:white;
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.player-info-author{
+    font-size: 0.9rem;
+    color: darkgrey;
+}
+
+.player-icon-info{
+    color: darkgrey;
+    
+}
+
+.player-icon-info:hover{
+    color: white;
+    transform: scale(1.1);
+}
+
+.play-pause{
+    font-size: 1.9rem;
+}

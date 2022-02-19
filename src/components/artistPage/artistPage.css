@@ -1,0 +1,63 @@
+.artistpage-header{
+    margin-top: 10vh;    
+}
+
+.artistpage-header-listeners{
+    font-size: 0.8rem;
+    color: rgb(181, 185, 189);
+}
+
+.artistpage-header-titlename{
+    color: white;
+    font-weight: bold;
+    font-size: 4rem;
+}
+
+.artistpage-button-play{
+    border-radius: 23px;
+    font-size: 0.9rem;
+    font-weight: bold;
+    padding: 0.6rem 3rem 0.6rem 3rem;
+    letter-spacing: 0.3ch;
+}
+.artistpage-button-follow{
+     border-radius: 23px;
+    font-size: 0.9rem;
+    font-weight: bold;
+    padding: 0.6rem 3rem 0.6rem 3rem;
+    letter-spacing: 0.3ch;
+}
+.artistpage-icon{
+    color: rgb(155, 143, 143);
+    font-size: 1.7rem;
+}
+
+.artistpage-icon:hover{
+    color: white;
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.artistpage-list {
+    color: white;
+    list-style: none;
+}
+
+.artistpage-header-menu{
+    margin-top: 4rem;
+}
+
+.list-item{
+    color: rgb(155, 143, 143);
+    letter-spacing: 0.2ch;
+    font-size: 0.9rem;
+}
+.list-item:hover{
+    color:white;
+    cursor:pointer
+}
+
+.album-icon{
+ font-size: 1.5rem;
+}
+

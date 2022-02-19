@@ -1,0 +1,31 @@
+.sidenavbar{
+    background-color: black;
+    position: fixed;
+    top: 0;
+    
+    left: 0;
+    bottom: 7rem;
+    
+}
+
+
+
+#loginButton, #singupButton {
+    font-size: 0.8rem;
+    border-radius: 23px;
+}
+
+.footernavbar{
+    font-size: 0.8rem;
+    color:darkgrey
+}
+
+
+.sidebarlink{
+    color:darkgrey;
+    font-size: 0.8rem;
+}
+
+.sidebarlink:hover{
+    color: white;
+}

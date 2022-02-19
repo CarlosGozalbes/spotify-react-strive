@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  box-sizing: border-box;
+}
+
+#row{
+  width: 100vw;
+  height: calc(100vh - 7rem);
+}
+
+#sidebar-wrapper{
+  padding-right: 0;
+}
+
+#page-content-wrapper{
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.spacingdiv{
+  height: 7rem;
+}

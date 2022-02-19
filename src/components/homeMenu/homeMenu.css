@@ -1,0 +1,13 @@
+.home-menu{
+    list-style-type: none
+}
+.home-menu-link {
+    text-decoration: none;
+    color:lightgray;
+    margin-right: 2rem;
+}
+
+.home-menu-link:hover{
+    text-decoration: none;
+    color: white;
+}
